@@ -30,17 +30,18 @@
 
 
 %% common font settings
-\setCJKmainfont[BoldFont=Adobe Heiti Std,ItalicFont=Adobe Kaiti Std]{Adobe Song Std}
-\setCJKsansfont{Adobe Heiti Std}
-\setCJKmonofont{Adobe Fangsong Std}
-\newCJKfontfamily{\fzsongbig}{FZSongS-Extended}
-\newCJKfontfamily{\arpluming}{AR PL UMing CN} %這個明細體和新明細體补充顯示Adobe缺失的漢字。但它的编码库可能比Adobe还小些。
-\newCJKfontfamily{\simsun}{SimSun}
-\newCJKfontfamily{\newsimsun}{NSimSun}
+\setCJKmainfont[BoldFont=Noto Serif CJK SC Bold, ItalicFont=Noto Serif CJK SC Light]{Noto Serif CJK SC}
+\setCJKsansfont{Noto Sans CJK SC}
+\setCJKmonofont{Noto Sans Mono CJK SC}
+\newCJKfontfamily{\fzsongbig}{Noto Serif CJK SC}
+\newCJKfontfamily{\arpluming}{Noto Serif CJK SC} % 使用Noto字体替换
+\newCJKfontfamily{\simsun}{Noto Serif CJK SC}
+\newCJKfontfamily{\newsimsun}{Noto Serif CJK SC}
 \DeclareTextFontCommand{\yt}{\arpluming}
 \DeclareTextFontCommand{\ytz}{\simsun}
 \DeclareTextFontCommand{\ytzn}{\newsimsun}
 \DeclareTextFontCommand{\ytzfz}{\fzsongbig}
+
 
 
 \renewcommand{\thepage}{\Chinese{page}}

@@ -1,0 +1,109 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.1)  2 DEC 2024 16:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**第一部分.tex
+(./第一部分.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+! Undefined control sequence.
+l.1 \section
+            {小標題一}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{小
+              標題一}
+? 
+Missing character: There is no 小 ("5C0F) in font nullfont!
+Missing character: There is no 標 ("6A19) in font nullfont!
+Missing character: There is no 題 ("984C) in font nullfont!
+Missing character: There is no 一 ("4E00) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 　
+     　正文第一段
+? 
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 正 ("6B63) in font nullfont!
+Missing character: There is no 文 ("6587) in font nullfont!
+Missing character: There is no 第 ("7B2C) in font nullfont!
+Missing character: There is no 一 ("4E00) in font nullfont!
+Missing character: There is no 段 ("6BB5) in font nullfont!
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 正 ("6B63) in font nullfont!
+Missing character: There is no 文 ("6587) in font nullfont!
+Missing character: There is no 第 ("7B2C) in font nullfont!
+Missing character: There is no 二 ("4E8C) in font nullfont!
+Missing character: There is no 段 ("6BB5) in font nullfont!
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 正 ("6B63) in font nullfont!
+Missing character: There is no 文 ("6587) in font nullfont!
+Missing character: There is no 第 ("7B2C) in font nullfont!
+Missing character: There is no 三 ("4E09) in font nullfont!
+Missing character: There is no 段 ("6BB5) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--8
+[] 
+ []
+
+! Undefined control sequence.
+l.9 \section
+            {小標題二}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \section{小
+              標題二}
+? 
+Missing character: There is no 小 ("5C0F) in font nullfont!
+Missing character: There is no 標 ("6A19) in font nullfont!
+Missing character: There is no 題 ("984C) in font nullfont!
+Missing character: There is no 二 ("4E8C) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 　
+      　正文第一段
+? 
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 正 ("6B63) in font nullfont!
+Missing character: There is no 文 ("6587) in font nullfont!
+Missing character: There is no 第 ("7B2C) in font nullfont!
+Missing character: There is no 一 ("4E00) in font nullfont!
+Missing character: There is no 段 ("6BB5) in font nullfont!
+Missing character: There is no 　 ("3000) in font nullfont!
+Missing character: There is no 　 ("3000) in font nul
