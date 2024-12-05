@@ -15,6 +15,12 @@
     \box\AtBeginShipoutBox
   }%
 }%
+
+% 清空默认字体设置
+\renewcommand{\CJKrmdefault}{} % 清空 CJK 正文字体默认设置
+\renewcommand{\CJKsfdefault}{}  % 清空 CJK 无衬线字体默认设置
+\renewcommand{\CJKttdefault}{}  % 清空 CJK 等宽字体默认设置
+
 %% %% font
 \defaultCJKfontfeatures{RawFeature={vertical:+vert}}
 \makeatletter
@@ -31,8 +37,8 @@
 
 %% common font settings
 \setCJKmainfont[BoldFont=Noto Serif CJK SC Bold, ItalicFont=Noto Serif CJK SC Light]{Noto Serif CJK SC}
-\setCJKsansfont{Noto Sans CJK SC}
-\setCJKmonofont{Noto Sans Mono CJK SC}
+% \setCJKsansfont{Noto Sans CJK SC}
+% \setCJKmonofont{Noto Sans Mono CJK SC}
 \newCJKfontfamily{\fzsongbig}{Noto Serif CJK SC}
 \newCJKfontfamily{\arpluming}{Noto Serif CJK SC} % 使用Noto字体替换
 \newCJKfontfamily{\simsun}{Noto Serif CJK SC}
